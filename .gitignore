@@ -1,1 +1,8 @@
-file
+*.log
+
+.vscode/    
+*.suo
+*.user  
+*.swp   
+
+#202434810 이윤후
